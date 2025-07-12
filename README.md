@@ -1,6 +1,6 @@
 Generalist nerd with a working focus on data, philosophy, and all that is mystic.
 
-Currently working on a data visualization platform, and I host papers I'm working on here.
+Currently working on a data visualization platform, and I host papers I'm writing on here.
 
 <!--
 **kyle-d-harris/Kyle-D-Harris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
